@@ -1,0 +1,8 @@
+# Vistas previas y copias locales de revisión
+/tmp/
+
+# Archivos auxiliares del sistema y de editores
+Thumbs.db
+.DS_Store
+*.swp
+*~
